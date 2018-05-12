@@ -1,0 +1,31 @@
+_repo: Claude-et-Juliette_16874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Assollant, Alfred
+    aliases:
+    - Assollant, A. (Alfred)
+    - Assolant, Alfred
+    birthdate: 1827
+    deathdate: 1886
+    gutenberg_agent_id: '6905'
+    url: http://www.gutenberg.org/2009/agents/6905
+    wikipedia: http://fr.wikipedia.org/wiki/Alfred_Assollant
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16874'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Claude et Juliette
+url: http://www.gutenberg.org/ebooks/16874
